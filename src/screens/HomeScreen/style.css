@@ -1,0 +1,8 @@
+.sidedrawer-button {
+  background-color: transparent;
+}
+
+.sidedrawer-button:hover {
+  background-color: #5f5e88;
+  border-radius: 4px;
+}
