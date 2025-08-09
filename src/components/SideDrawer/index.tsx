@@ -15,7 +15,7 @@ const SideDrawer = ({ visible, setSideBarVisible }: SideDrawerProps) => {
         style={{ backgroundColor: "#070F2B", padding: "24px"}}
         closeIcon={<FiSidebar size={30}/>}
       >
-        <h2>Sidebar</h2>
+        <h2>LexiAI</h2>
         <div>
           <h5>Previous Chats</h5>
         </div>
